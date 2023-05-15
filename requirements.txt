@@ -1,8 +1,5 @@
 # Django
 Django==3.2
 djangorestframework==3.14.0
-
-# Authentication
-
-
-# Database
+# Photo & Image
+Pillow==9.5.0
